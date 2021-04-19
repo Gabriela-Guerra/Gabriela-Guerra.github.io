@@ -1,0 +1,57 @@
+.nometitulo {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.fotoperfil {
+  padding: 2%; background-color: #b7b7a4;
+  float:left;
+}
+
+.fotoperfil_texto {
+  padding: 50px;
+  min-height: 450px;
+}
+
+.stronger {
+  font-weight: 600;
+
+}
+
+.sobreEla_tituloetexto {
+  background-color: blueviolet;
+  width: 70%;
+  float: right;
+  }
+
+.tituloatividades_texto {
+  background-color: brown;
+}
+
+.tituloblog_texto {
+  background-color: green;
+}
+
+h2, h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #dee2ff;
+}
+
+.tamanho1elemento {
+   width: 150px;
+   height: 40px;
+}
+ 
+.tamanho2elemento {
+   width: 180px;
+   height: 40px;
+}
+
+.tamanho3elemento {
+   width: 200px;
+   height: 40px;
+}
+
