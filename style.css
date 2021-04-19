@@ -9,27 +9,32 @@
 }
 
 .fotoperfil_texto {
-  padding: 50px;
+  padding: 40px;
   min-height: 450px;
 }
 
 .stronger {
   font-weight: 600;
+}
 
+.textosobreEla {
+  text-align: justify;
 }
 
 .sobreEla_tituloetexto {
-  background-color: blueviolet;
-  width: 70%;
+  width: 67%;
   float: right;
+  margin: auto;
   }
 
 .tituloatividades_texto {
-  background-color: brown;
+  line-height: 100%;
+  margin: 70px 20px 40px;
 }
 
 .tituloblog_texto {
-  background-color: green;
+  line-height: 100%;
+  margin: 40px 20px 40px;
 }
 
 h2, h3 {
@@ -42,16 +47,21 @@ body {
 
 .tamanho1elemento {
    width: 150px;
-   height: 40px;
+   height: 30px;
 }
  
 .tamanho2elemento {
-   width: 180px;
-   height: 40px;
+   width: 190px;
+   height: 30px;
 }
 
 .tamanho3elemento {
    width: 200px;
-   height: 40px;
+   height: 30px;
+}
+
+.tamanho4elemento {
+  width: 500px;
+  height: 10px;
 }
 
